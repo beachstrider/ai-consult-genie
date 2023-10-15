@@ -1,0 +1,11 @@
+Image Creator
+Generate images from a description text.
+
+Live Translator
+Translate spoken or written language with the best correctness.
+
+Social Connection
+Integrate AI with all your social media accounts.
+
+Adamo for Business
+Integrate and Utilize AI within the context of a business organization.
